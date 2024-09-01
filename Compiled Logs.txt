@@ -1,0 +1,129 @@
+2024-08-28 09:00:01.2340 Info  Robot1  LowEmissions  Starting the Low Emissions data extraction process.
+2024-08-28 09:00:02.4560 Info  Robot1  LowEmissions  Opening Microsoft Edge browser.
+2024-08-28 09:00:09.7890 Info  Robot1  LowEmissions  Navigating to 'https://carfueldata.vehicle-certification-agency.gov.uk/search-by-low-emissions.aspx'.
+2024-08-28 09:00:14.2340 Info  Robot1  LowEmissions  Page loaded successfully.
+
+2024-08-28 09:00:16.8900 Info  Robot1  LowEmissions  Unchecking 'Ultra-low Emission' and checking 'Low Emission' filter.
+2024-08-28 09:00:17.5670 Info  Robot1  LowEmissions  Filters applied successfully. Clicking 'Update'.
+
+2024-08-28 09:00:21.1230 Info  Robot1  LowEmissions  Changing display items to '100 items per page'.
+2024-08-28 09:00:22.7890 Info  Robot1  LowEmissions  Clicking 'Go' to update the display.
+
+2024-08-28 09:00:24.4560 Info  Robot1  LowEmissions  Starting data scraping for low emission vehicles.
+2024-08-28 09:00:30.6780 Info  Robot1  LowEmissions  Extracted 890 rows of data for low emission vehicles.
+2024-08-28 09:00:32.1230 Info  Robot1  LowEmissions  Filtering data to include only vehicles with CO2 emissions between 75g/km and 100g/km.
+
+2024-08-28 09:00:35.8900 Info  Robot1  LowEmissions  Saving low emission vehicles data to Excel sheet 'Low Emission'.
+2024-08-28 09:00:38.5670 Info  Robot1  LowEmissions  Data saved successfully to 'VCA.xlsx'.
+
+2024-08-28 09:00:40.1230 Info  Robot1  LowEmissions  Low Emission data extraction completed successfully.
+2024-08-28 09:00:41.0000 Info  Robot1  UltraLowEmissions  Starting the Ultra Low Emissions data extraction process.
+
+2024-08-28 09:00:42.4560 Info  Robot1  UltraLowEmissions  Unchecking 'Low Emission' and checking 'Ultra-low Emission' filter.
+2024-08-28 09:00:43.5670 Info  Robot1  UltraLowEmissions  Filters applied successfully. Clicking 'Update'.
+
+2024-08-28 09:00:46.1230 Info  Robot1  UltraLowEmissions  Changing display items to '100 items per page'.
+2024-08-28 09:00:47.7890 Info  Robot1  UltraLowEmissions  Clicking 'Go' to update the display.
+
+2024-08-28 09:00:49.4560 Info  Robot1  UltraLowEmissions  Starting data scraping for ultra-low emission vehicles.
+2024-08-28 09:00:55.6780 Info  Robot1  UltraLowEmissions  Extracted 830 rows of data for ultra-low emission vehicles.
+2024-08-28 09:00:57.1230 Info  Robot1  UltraLowEmissions  Filtering data to include only vehicles with CO2 emissions less than 75g/km.
+
+2024-08-28 09:01:00.8900 Info  Robot1  UltraLowEmissions  Saving ultra-low emission vehicles data to Excel sheet 'Ultra-low Emission'.
+2024-08-28 09:01:03.5670 Info  Robot1  UltraLowEmissions  Data saved successfully to 'VCA.xlsx'.
+
+2024-08-28 09:01:05.1230 Info  Robot1  UltraLowEmissions  Ultra Low Emission data extraction completed successfully.
+2024-08-28 09:01:06.0000 Info  Robot1  Outlook  Starting the email composition process.
+
+2024-08-28 09:01:07.8900 Info  Robot1  Outlook  Composing email to 'lia.wilkinson@schoolofautomation.tech' with subject 'VCA Emissions this week'.
+2024-08-28 09:01:09.5670 Info  Robot1  Outlook  Attaching Excel file 'VCA.xlsx' to the email.
+2024-08-28 09:01:11.1230 Info  Robot1  Outlook  Email sent successfully to 'lia.wilkinson@schoolofautomation.tech'.
+
+2024-08-28 09:01:12.8900 Info  Robot1  Outlook  Email process completed successfully. Process completed at 09:01:12.
+
+2024-08-29 11:00:01.2340 Info  Robot1  LowEmissions  Starting the Low Emissions data extraction process.
+2024-08-29 11:00:02.4560 Info  Robot1  LowEmissions  Opening Microsoft Edge browser.
+2024-08-29 11:00:09.7890 Info  Robot1  LowEmissions  Navigating to 'https://carfueldata.vehicle-certification-agency.gov.uk/search-by-low-emissions.aspx'.
+2024-08-29 11:00:14.2340 Info  Robot1  LowEmissions  Page loaded successfully.
+
+2024-08-29 11:00:16.8900 Info  Robot1  LowEmissions  Unchecking 'Ultra-low Emission' and checking 'Low Emission' filter.
+2024-08-29 11:00:17.5670 Info  Robot1  LowEmissions  Filters applied successfully. Clicking 'Update'.
+
+2024-08-29 11:00:21.1230 Info  Robot1  LowEmissions  Changing display items to '100 items per page'.
+2024-08-29 11:00:22.7890 Info  Robot1  LowEmissions  Clicking 'Go' to update the display.
+
+2024-08-29 11:00:24.4560 Info  Robot1  LowEmissions  Starting data scraping for low emission vehicles.
+2024-08-29 11:00:30.6780 Info  Robot1  LowEmissions  Extracted 890 rows of data for low emission vehicles.
+2024-08-29 11:00:32.1230 Info  Robot1  LowEmissions  Filtering data to include only vehicles with CO2 emissions between 75g/km and 100g/km.
+
+2024-08-29 11:00:35.8900 Info  Robot1  LowEmissions  Saving low emission vehicles data to Excel sheet 'Low Emission'.
+2024-08-29 11:00:38.5670 Info  Robot1  LowEmissions  Data saved successfully to 'VCA.xlsx'.
+
+2024-08-29 11:00:40.1230 Info  Robot1  LowEmissions  Low Emission data extraction completed successfully.
+2024-08-29 11:00:41.0000 Info  Robot1  UltraLowEmissions  Starting the Ultra Low Emissions data extraction process.
+
+2024-08-29 11:00:42.4560 Info  Robot1  UltraLowEmissions  Unchecking 'Low Emission' and checking 'Ultra-low Emission' filter.
+2024-08-29 11:00:43.5670 Info  Robot1  UltraLowEmissions  Filters applied successfully. Clicking 'Update'.
+
+2024-08-29 11:00:46.1230 Info  Robot1  UltraLowEmissions  Changing display items to '100 items per page'.
+2024-08-29 11:00:47.7890 Info  Robot1  UltraLowEmissions  Clicking 'Go' to update the display.
+
+2024-08-29 11:00:49.4560 Info  Robot1  UltraLowEmissions  Starting data scraping for ultra-low emission vehicles.
+2024-08-29 11:00:55.6780 Info  Robot1  UltraLowEmissions  Extracted 830 rows of data for ultra-low emission vehicles.
+2024-08-29 11:00:57.1230 Info  Robot1  UltraLowEmissions  Filtering data to include only vehicles with CO2 emissions less than 75g/km.
+
+2024-08-29 11:01:00.8900 Info  Robot1  UltraLowEmissions  Saving ultra-low emission vehicles data to Excel sheet 'Ultra-low Emission'.
+2024-08-29 11:01:03.5670 Info  Robot1  UltraLowEmissions  Data saved successfully to 'VCA.xlsx'.
+
+2024-08-29 11:01:05.1230 Info  Robot1  UltraLowEmissions  Ultra Low Emission data extraction completed successfully.
+2024-08-29 11:01:06.0000 Info  Robot1  Outlook  Starting the email composition process.
+
+2024-08-29 11:01:07.8900 Info  Robot1  Outlook  Composing email to 'lia.wilkinson@schoolofautomation.tech' with subject 'VCA Emissions this week'.
+2024-08-29 11:01:09.5670 Info  Robot1  Outlook  Attaching Excel file 'VCA.xlsx' to the email.
+2024-08-29 11:01:11.1230 Info  Robot1  Outlook  Email sent successfully to 'lia.wilkinson@schoolofautomation.tech'.
+
+2024-08-29 11:01:12.8900 Info  Robot1  Outlook  Email process completed successfully. Process completed at 11:01:12.
+
+2024-08-30 10:00:01.2340 Info  Robot1  LowEmissions  Starting the Low Emissions data extraction process.
+2024-08-30 10:00:02.4560 Info  Robot1  LowEmissions  Opening Microsoft Edge browser.
+2024-08-30 10:00:09.7890 Info  Robot1  LowEmissions  Navigating to 'https://carfueldata.vehicle-certification-agency.gov.uk/search-by-low-emissions.aspx'.
+2024-08-30 10:00:14.2340 Info  Robot1  LowEmissions  Page loaded successfully.
+
+2024-08-30 10:00:16.8900 Info  Robot1  LowEmissions  Unchecking 'Ultra-low Emission' and checking 'Low Emission' filter.
+2024-08-30 10:00:17.5670 Info  Robot1  LowEmissions  Filters applied successfully. Clicking 'Update'.
+
+2024-08-30 10:00:21.1230 Info  Robot1  LowEmissions  Changing display items to '100 items per page'.
+2024-08-30 10:00:22.7890 Info  Robot1  LowEmissions  Clicking 'Go' to update the display.
+
+2024-08-30 10:00:24.4560 Info  Robot1  LowEmissions  Starting data scraping for low emission vehicles.
+2024-08-30 10:00:30.6780 Info  Robot1  LowEmissions  Extracted 890 rows of data for low emission vehicles.
+2024-08-30 10:00:32.1230 Info  Robot1  LowEmissions  Filtering data to include only vehicles with CO2 emissions between 75g/km and 100g/km.
+
+2024-08-30 10:00:35.8900 Info  Robot1  LowEmissions  Saving low emission vehicles data to Excel sheet 'Low Emission'.
+2024-08-30 10:00:38.5670 Info  Robot1  LowEmissions  Data saved successfully to 'VCA.xlsx'.
+
+2024-08-30 10:00:40.1230 Info  Robot1  LowEmissions  Low Emission data extraction completed successfully.
+2024-08-30 10:00:41.0000 Info  Robot1  UltraLowEmissions  Starting the Ultra Low Emissions data extraction process.
+
+2024-08-30 10:00:42.4560 Info  Robot1  UltraLowEmissions  Unchecking 'Low Emission' and checking 'Ultra-low Emission' filter.
+2024-08-30 10:00:43.5670 Info  Robot1  UltraLowEmissions  Filters applied successfully. Clicking 'Update'.
+
+2024-08-30 10:00:46.1230 Info  Robot1  UltraLowEmissions  Changing display items to '100 items per page'.
+2024-08-30 10:00:47.7890 Info  Robot1  UltraLowEmissions  Clicking 'Go' to update the display.
+
+2024-08-30 10:00:49.4560 Info  Robot1  UltraLowEmissions  Starting data scraping for ultra-low emission vehicles.
+2024-08-30 10:00:55.6780 Info  Robot1  UltraLowEmissions  Extracted 830 rows of data for ultra-low emission vehicles.
+2024-08-30 10:00:57.1230 Info  Robot1  UltraLowEmissions  Filtering data to include only vehicles with CO2 emissions less than 75g/km.
+
+2024-08-30 10:01:00.8900 Info  Robot1  UltraLowEmissions  Saving ultra-low emission vehicles data to Excel sheet 'Ultra-low Emission'.
+2024-08-30 10:01:03.5670 Info  Robot1  UltraLowEmissions  Data saved successfully to 'VCA.xlsx'.
+
+2024-08-30 10:01:05.1230 Info  Robot1  UltraLowEmissions  Ultra Low Emission data extraction completed successfully.
+2024-08-30 10:01:06.0000 Info  Robot1  Outlook  Starting the email composition process.
+
+2024-08-30 10:01:07.8900 Info  Robot1  Outlook  Composing email to 'lia.wilkinson@schoolofautomation.tech' with subject 'VCA Emissions this week'.
+2024-08-30 10:01:09.5670 Info  Robot1  Outlook  Attaching Excel file 'VCA.xlsx' to the email.
+2024-08-30 10:01:11.1230 Info  Robot1  Outlook  Email sent successfully to 'lia.wilkinson@schoolofautomation.tech'.
+
+2024-08-30 10:01:12.8900 Info  Robot1  Outlook  Email process completed successfully. Process completed at 10:01:12.
+
